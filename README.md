@@ -30,8 +30,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [https://github.com/OrlandoVC/profile-card-component](https://github.com/OrlandoVC/profile-card-component)
-- Live Site URL: [https://OrlandoVC.github.io/profile-card-component](https://OrlandoVC.github.io/profile-card-component)
+- Solution URL: [https://github.com/OrlandoVC/profile-card-component](https://github.com/Orliland/profile-card-component)
+- Live Site URL: [https://OrlandoVC.github.io/profile-card-component](https://orliland.github.io/profile-card-component)
 
 ## My process
 
@@ -59,6 +59,6 @@ To improve my development skills I will focus on studying concepts such as:
 
 ## Author
 
-- Website - [kelaud.com](https://www.kelaud.com)
-- Frontend Mentor - [@OrlandoVC](https://www.frontendmentor.io/profile/OrlandoVC)
-- Twitter - [@Orli_ando](https://www.twitter.com/Orli_ando)
+- Website - [orli.land](https://orli.land)
+- Frontend Mentor - [@Orliland](https://www.frontendmentor.io/profile/Orliland)
+- Twitter - [@Orliland](https://www.twitter.com/Orliland)
